@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPrefandFileStorage</string>
+    <string name="main_heading">Storage Part 1</string>
+    <string name="shared_preferences_btn_text">Shared Preferences</string>
+    <string name="file_storage_btn_text">File Storage</string>
+    <string name="input_text_hint">Enter text</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="retrieve_btn_text">Retrieve</string>
+    <string name="fileStorage_write_btn_text">Write</string>
+    <string name="fileStorage_read_btn_text">Read</string>
+</resources>
